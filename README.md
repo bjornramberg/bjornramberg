@@ -19,6 +19,7 @@ Life long builder and infrastructure aficionado who remembers when the "Cloud" w
 
 ### 🌱 Some of my projects:
 * 🕶️ [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
+* 🔍 [fastfinder - superfast file and dir finder for linux](https://github.com/bjornramberg/fastfinder)
 * 🕓 [pyty - zen terminal speaker timer](https://github.com/bjornramberg/pyty)
 
 ---
