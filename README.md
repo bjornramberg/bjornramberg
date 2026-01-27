@@ -2,7 +2,7 @@
 
 ### Engineering Domain Manager
 
-I’m an infrastructure aficionado who remembers when the "Cloud" was just someone else’s basement. I’ve traded the DC for the strategy table, but I still keep my terminal open and my dotfiles polished.
+Life long builder and infrastructure aficionado who remembers when the "Cloud" was just someone else’s basement. I’ve traded the DC for the strategy table, but I still keep my terminal open and my dotfiles polished.
 
 ---
 
