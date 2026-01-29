@@ -1,6 +1,6 @@
 # 👋 Hej, I'm Björn! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjorn-ramberg)
 
-### Engineering Domain Manager:
+### Engineering Domain Manager @ IKEA
 Life long builder and infrastructure aficionado who remembers when the "Cloud" was just someone else’s basement. I’ve traded the DC for the strategy table, but I still keep my terminal open and my dotfiles polished.
 
 ![Kubernetes](https://img.shields.io/badge/k8s-000000?style=flat&logo=kubernetes&logoColor=white)
