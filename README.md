@@ -3,10 +3,6 @@
 ### Engineering Domain Manager @ IKEA
 Lifelong builder and infrastructure aficionado. While my profesional focus has shifted over the years, my passion for the open-source community remains at the core of my work. I still spend my best hours in the terminal, contributing to the ecosystem and keeping my [dotfiles](https://github.com/bjornramberg/dotfiles) polished (and playing retro games).
 
-
-
-### 🛠️ My stack
-
 ![Bash](https://img.shields.io/badge/bash-%23E37400.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-%23E37400.svg?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%23E37400.svg?style=flat-square&logo=go&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23483699.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23483699.svg?style=flat-square&logo=github&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%23483699.svg?style=flat-square&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%23483699.svg?style=flat-square&logo=neovim&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)
