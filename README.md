@@ -1,4 +1,4 @@
-# 👋 Hej, I'm Björn! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjorn-ramberg)
+# Hej, I'm Björn! [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bjorn-ramberg)
 
 Lifelong builder and infrastructure aficionado. While my professional focus has shifted over the years, my passion for the open-source community remains at the core of my work. I still spend my best hours in the terminal, contributing to the ecosystem and keeping my [dotfiles](https://github.com/bjornramberg/dotfiles) somewhat polished (and playing retro games).
 
@@ -14,14 +14,14 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bjornramberg&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=E37400&text_color=ffffff)
 ---
 
-### 🌱 Some of my projects:
+### Some of my projects:
 * [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
 * [fastfinder - superfast file and dir finder for Linux](https://github.com/bjornramberg/fastfinder)
 * [pyty - zen terminal speaker timer](https://github.com/bjornramberg/pyty)
 
 ---
 
-### 🖌️ Themes for Omarchy:
+### Themes for Omarchy:
 * [Brutalism](https://github.com/bjornramberg/omarchy-brutalism-theme)
 * [Kurayami](https://github.com/bjornramberg/omarchy-kurayami-theme)
 
