@@ -24,7 +24,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ### Themes for Omarchy:
 * [Brutalism](https://github.com/bjornramberg/omarchy-brutalism-theme)
 * [Kurayami](https://github.com/bjornramberg/omarchy-kurayami-theme)
-
+* [WIP Bad Hand](https://github.com/bjornramberg/omarchy-bad-hand-theme)
 ---
 
 ### Currently in love with:
