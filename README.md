@@ -16,6 +16,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 
 ### Some of my projects:
 * [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
+* [netinspect](https://github.com/bjornramberg/netinspeat) 
 * [fastfinder - superfast file and dir finder for Linux](https://github.com/bjornramberg/fastfinder)
 * [pyty - zen terminal speaker timer](https://github.com/bjornramberg/pyty)
 
