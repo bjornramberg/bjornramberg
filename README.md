@@ -15,6 +15,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Some of my projects:
+* [ratbagtui - TUI for ratbag](https://github.com/bjornramberg/ratbagtui)
 * [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
 * [netinspect - process upload monitor](https://github.com/bjornramberg/netinspect) 
 * [fastfinder - superfast file and dir finder for Linux](https://github.com/bjornramberg/fastfinder)
