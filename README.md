@@ -15,6 +15,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Some of my projects:
+* [Biometrk - a habit/health tracking tool](https://github.com/bjornramberg/biometrk) [WIP]
 * [ratbagtui - TUI for ratbag](https://github.com/bjornramberg/ratbagtui)
 * [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
 * [netinspect - process upload monitor](https://github.com/bjornramberg/netinspect) 
