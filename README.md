@@ -35,7 +35,6 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Currently in love with:
-* 👾 [RetroArch](https://github.com/libretro/RetroArch)
 * 🐧 [Omarchy](https://github.com/basecamp/omarchy)
 * 🧠 [Obsidian](https://github.com/obsidianmd)
 * ⌨️ [Zed](https://github.com/zed-industries/zed)
