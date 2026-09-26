@@ -35,6 +35,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Currently in love with:
+* 🎮 [EmuDeck](https://github.com/EmuDeck)
 * 🐧 [Omarchy](https://github.com/basecamp/omarchy)
 * 🧠 [Obsidian](https://github.com/obsidianmd)
 * ⌨️ [Zed](https://github.com/zed-industries/zed)
