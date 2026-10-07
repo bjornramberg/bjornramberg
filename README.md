@@ -15,7 +15,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Some of my projects:
-* [Biometrk - a habit/health tracking tool](https://github.com/bjornramberg/biometrk)
+* [biometrk - a habit/health tracking tool](https://github.com/bjornramberg/biometrk)
 * [zenplayer - a linux terminal yt music player with visuals](https://github.com/bjornramberg/zenplayer)
 * [ratbagtui - TUI for ratbag](https://github.com/bjornramberg/ratbagtui)
 * [betterdisk - a rust disk analyzer for linux](https://github.com/bjornramberg/betterdisk)
