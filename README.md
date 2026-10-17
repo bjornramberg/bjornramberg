@@ -15,16 +15,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Some of my projects:
-* [biometrk - a habit/health tracking tool](https://github.com/bjornramberg/biometrk)
-* [zenplayer - a linux terminal yt music player with visuals](https://github.com/bjornramberg/zenplayer)
-* [ratbagtui - TUI for ratbag](https://github.com/bjornramberg/ratbagtui)
-* [betterdisk - a rust disk analyzer for linux](https://github.com/bjornramberg/betterdisk)
-* [rom_tools - tools for managing rom sets](https://github.com/bjornramberg/rom_tools)
-* [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
-* [netinspect - watch outgoing traffic from individual processes](https://github.com/bjornramberg/netinspect) 
-* [fastfinder - superfast file and dir finder for Linux](https://github.com/bjornramberg/fastfinder)
-* [pyty - zen terminal speaker timer](https://github.com/bjornramberg/pyty)
-
+![repo](https://github-stats-extended.vercel.app/api/pin?username=bjornramberg&repo=omakaiju&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&theme=dark_github_repocard) ![repo](https://github-stats-extended.vercel.app/api/pin?username=bjornramberg&repo=zenplayer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&theme=dark_github_repocard) ![repo](https://github-stats-extended.vercel.app/api/pin?username=bjornramberg&repo=batrat&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&theme=dark_github_repocard) ![repo](https://github-stats-extended.vercel.app/api/pin?username=bjornramberg&repo=ratbagtui&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&theme=dark_github_repocard)
 ---
 
 ### Themes for Omarchy:
