@@ -11,7 +11,7 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ![Linux](https://img.shields.io/badge/Linux-%23121011.svg?style=flat-square&logo=linux&logoColor=white) ![Omarchy](https://img.shields.io/badge/Omarchy-%23121011.svg?style=flat-square&logo=omarchy&logoColor=white) ![Arch](https://img.shields.io/badge/Arch%20Linux-%23121011.svg?style=flat-square&logo=arch-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23121011.svg?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-%23121011.svg?style=flat-square&logo=debian&logoColor=white) ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23121011.svg?style=flat-square&logo=freebsd&logoColor=white)
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bjornramberg&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=darcula)](https://github-stats-extended.vercel.app/api?username=bjornramberg&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=darcula)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bjornramberg&theme=darcula)
 ---
 
 ### Some of my projects:
