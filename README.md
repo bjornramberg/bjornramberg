@@ -2,6 +2,8 @@
 
 Lifelong builder and infrastructure aficionado. While my professional focus has shifted over the years, my passion for the open-source community remains at the core of my work. I still spend my best hours in the terminal, contributing to the ecosystem and keeping my [dotfiles](https://github.com/bjornramberg/dotfiles) somewhat polished (and playing retro games).
 
+More at [bjornramberg.github.io](https://bjornramberg.github.io) · [Kilobyte Thoughts](https://bjornramberg.github.io/#thoughts)
+
 ![Bash](https://img.shields.io/badge/bash-%23E37400.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-%23E37400.svg?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/go-%23E37400.svg?style=flat-square&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23E37400.svg?style=flat-square&logo=rust&logoColor=white) ![Shell](https://img.shields.io/badge/shell-%23E37400.svg?style=flat-square&logo=gnubash&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23483699.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23483699.svg?style=flat-square&logo=github&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%23483699.svg?style=flat-square&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%23483699.svg?style=flat-square&logo=neovim&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-%23483699.svg?style=flat-square&logo=zed&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)
@@ -15,12 +17,24 @@ Lifelong builder and infrastructure aficionado. While my professional focus has 
 ---
 
 ### Some of my projects:
-* [omakaiju - a blazing fast, drop-in replacement for files in omarchy](https://github.com/bjornramberg/omakaiju)
-* [zenplayer - a linux terminal yt music player with visuals](https://github.com/bjornramberg/zenplayer)
-* [ratbagtui - TUI for ratbag](https://github.com/bjornramberg/ratbagtui)
-* [betterdisk - a rust disk analyzer for linux](https://github.com/bjornramberg/betterdisk)
-* [rom_tools - tools for managing rom sets](https://github.com/bjornramberg/rom_tools)
-* [Awesome list of linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
+
+**Omarchy**
+* [omakaiju - a blazing fast, dual-pane TUI file manager for Unix-like systems](https://github.com/bjornramberg/omakaiju)
+* [omarchy-power-flow - animated live power-flow visualization for the Omarchy bar](https://github.com/bjornramberg/omarchy-power-flow)
+
+**Terminal tools**
+* [batrat - a terminal power profiler that shows what is draining your machine](https://github.com/bjornramberg/batrat)
+* [zenplayer - a terminal YouTube Music player with album art and visuals](https://github.com/bjornramberg/zenplayer)
+* [biometrk - a privacy-focused health and habit tracker for the terminal](https://github.com/bjornramberg/biometrk)
+* [ratbagtui - a TUI for configuring mice through ratbag](https://github.com/bjornramberg/ratbagtui)
+* [betterdisk - a fast disk usage analyzer with a treemap, in Rust](https://github.com/bjornramberg/betterdisk)
+* [netinspect - watch outgoing traffic from individual processes](https://github.com/bjornramberg/netinspect)
+* [fastfinder - a superfast file and directory finder](https://github.com/bjornramberg/fastfinder)
+* [pyty - a zen-mode speaker timer for your terminal](https://github.com/bjornramberg/pyty)
+
+**Collections**
+* [awesome-linux-productivity-apps - a curated list of awesome Linux productivity apps](https://github.com/bjornramberg/awesome-linux-productivity-apps)
+* [rom_tools - tools for managing ROM sets](https://github.com/bjornramberg/rom_tools)
 
 ---
 
